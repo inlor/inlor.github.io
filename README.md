@@ -22,17 +22,17 @@ The master's degree is named: Information, Mobility, Programming, Algorithms, In
 ## ```2020-2022: Master of Computer Science IMPAIRS - University Of Paris```
 
 I followed those courses during my master's degree:
-|||
-| :---        |    :----   |
-| Embedded Systems  | Algorithmic   |
-| Protocol engineering | Network protocols      |
-| Internet service protocols| Advanced object languages  |
-| Data mining and decision support | Graphical interfaces |
-| System and network administration | Android programming |
-| Information systems architecture | Advanced databases |
-| Comparative programming | Advanced software engineering |
-| Distributed programming | Open Source |
-| MacOS-X Interfaces and Tools | English |
+_|_
+------------ | -------------
+Embedded Systems  | Algorithmic
+Protocol engineering | Network protocols
+Internet service protocols| Advanced object languages
+Data mining and decision support | Graphical interfaces
+System and network administration | Android programming
+Information systems architecture | Advanced databases
+Comparative programming | Advanced software engineering
+Distributed programming | Open Source
+MacOS-X Interfaces and Tools | English
 
 During my studies, I participated in open source projects as [Galène](https://galene.org/) and [Easy Admin](https://symfony.com/bundles/EasyAdminBundle/current/index.html).
 
@@ -43,14 +43,14 @@ Some projects are accessible below in the project section.
 ## ```2017-2020: Bachelor of Computer Science General - University Of Paris Diderot```
 
 I followed those main courses during my bachelor's degree:
-|||
-| :---        |    :----   |
-| Algorithmic    | Network programming|
-| Discrete mathematics | Systems programming |
-| Automata and lexical analysis |  Maths and analysis |
-| Software engineering | Aadvanced object oriented programming |
-| Scripting Languages | Functional programming |
-| Security and Cryptography | Logic |
+_|_
+------------ | -------------
+Algorithmic    | Network programming
+Discrete mathematics | Systems programming
+Automata and lexical analysis |  Maths and analysis
+Software engineering | Aadvanced object oriented programming
+Scripting Languages | Functional programming |
+Security and Cryptography | Logic
 
 [Details about the bachelor.](http://www.informatique.univ-paris-diderot.fr/formations/licences/informatique-generale/accueil)
 
@@ -138,6 +138,9 @@ We made a framework to add new card games to the program without changing the co
 Using Kotlin, we made an Android app to manage RSS. We used an internal database to store data.
 
 [Source code.](https://github.com/inlor/university/tree/main/M1S1/PCM/rss)
+
+
+## Personal Projects
 
 # Personal:
 
