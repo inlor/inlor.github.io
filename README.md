@@ -3,13 +3,13 @@
 You can contact me on [LinkedIn](https://www.linkedin.com/in/lpetic/).
 
 ## Sommary 
-- [About](./README.md#About) 
-- [Education](./README.md#Education)  
-- [Experience](./README.md#Experience) 
-- [Extracurricular Experience](./README.md#Extracurricular_Experience)
-- [Skills](./README.md#Skills)
-- [Projects](./README.md#Projects) 
-- [Personal](./README.md#Projects) 
+- [About](./README.md#about) 
+- [Education](./README.md#education)  
+- [Experience](./README.md#experience) 
+- [Extracurricular Experience](./README.md#extracurricular-experience)
+- [Skills](./README.md#skills)
+- [Projects](./README.md#projects) 
+- [Personal](./README.md#personal) 
 
 # About
 
