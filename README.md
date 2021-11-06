@@ -130,30 +130,30 @@ Language skills:
 
 ## University Projects
 
-### ```Static Site Generator```
+### ```Static Site Generator``` 
 
 The main goal was to create a static site generator that takes files in Markdown format and creates the HTML. Six people were involved in the creation of this project.We used some design patterns, CI, CD, and Docker.
 
-[Source code.](https://github.com/inlor/university/tree/main/M1S2/GLA/ssg)
+May 2021: [source code.](https://github.com/inlor/university/tree/main/M1S2/GLA/ssg)
 
 ### ```Local Procedure Call```
 
 We created a server-side and also the client-side. The server is waiting for client requests. Whenever a client is connecting server creates a subprocess to respond to the request. One of the difficulties was to play with pointers and make a function call using them. We used mutexes, shared memory, conditions, sockets - to name a few.
 
-[Source code.](https://github.com/inlor/university/tree/main/M1S2/SY/lpc-call)
+May 2021: [source code.](https://github.com/inlor/university/tree/main/M1S2/SY/lpc-call)
 
 
 ### ```Framework for Card Games```
 
 We made a framework to add new card games to the program without changing the core. Of course, an MVC design pattern is present to structure the program. Defining the correct controller for every game, we were able to avoid repeating some rules. In this way, we respected the concept of DRY (don't repeat yourself).
 
-[Source code.](https://github.com/inlor/university/tree/main/M1S1/LOA/card-games)
+January 2021: [source code.](https://github.com/inlor/university/tree/main/M1S1/LOA/card-games)
 
 ### ```RSS Flux```
 
 Using Kotlin, we made an Android app to manage RSS. We used an internal database to store data.
 
-[Source code.](https://github.com/inlor/university/tree/main/M1S1/PCM/rss)
+January 2021: [source code.](https://github.com/inlor/university/tree/main/M1S1/PCM/rss)
 
 
 ### ```C Robots```
@@ -163,25 +163,25 @@ Reproduction of a chef-oeuvre of the programming world to see concepts of softwa
 - view for the display on the terminal
 - the model for the logic
 
-[Source code.](https://github.com/inlor/university/tree/main/L3S6/CP6/c-robots)
+May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/CP6/c-robots)
 
 ### ```File Tags```
 
 This project has similar functionalities like MacOS system tags of files or Windows system tags. One advanced function is that our project has a hierarchy between tags applied thanks to an SQLite database. We used **xattr** attribute to link tags with files.
 
-[Source code.](https://github.com/inlor/university/tree/main/L3S6/SY6/filetags)
+May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/SY6/filetags)
 
 ### ```Parsons```
 
 Web application developed with Symfony and Angular. This project was the perfect moment to discover how modern web applications work by separating the front-end and the back-end.
 
-[Source code.](https://github.com/inlor/university/tree/main/L3S6/PW6/parsons)
+May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/PW6/parsons)
 
 ### ```Algorithms Visualization```
 
 We made a visualization of sorting algorithms to understand better how it works. We used data structures to store each state of the algorithm. Moreover, there is a functionality to import external data like a **.csv** to use real data instead of random numbers.
 
-[Source code.](https://github.com/inlor/university/tree/main/L2S4/algo-view)
+May 2019: [source code.](https://github.com/inlor/university/tree/main/L2S4/algo-view)
 
 ## Personal Projects
 
@@ -192,7 +192,7 @@ For my part, after a few weeks, I was challenged to get slides indirectly and be
 
 My classmates were impressed that I was able to share with them a perfect version of our course. 
 
-[Source code.](https://github.com/inlor/bigbluebutton-downloader)
+May 2021: [source code.](https://github.com/inlor/bigbluebutton-downloader)
 
 
 # Personal:
