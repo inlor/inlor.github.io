@@ -89,7 +89,7 @@ Stack: Symfony, React, GitHub, Docker.
 
 ## ```Scratch Animator - Graine de Partage```
 
-**2020 - Current: Paris, France, Freelance**
+**2020 - Present: Paris, France, Freelance**
 
 Animator for “Discovery of computer science” for children with Scratch software. My job was to explain the main concepts of programming and make animations and games using those concepts.
 
@@ -97,11 +97,11 @@ Animator for “Discovery of computer science” for children with Scratch softw
 
 **2019: Remote, Part-time, Freelance (7 months)**
 
-Integration from Figma design. Development in Angular of educational platforms: Mathix and Matrix Drive (project cancelled). I was a post of a team of 5 people.
+Integration from Figma design. Development in Angular of educational platforms: Mathix and Matrix Drive (project cancelled). I was a part of a team of 5 people.
 
 I made the logic and integration of 4 games for the platform. Moreover, I got involved in the "Highway Code" test simulation.
 
-[Letter of recommendation](https://mega.nz/file/eBxgiLKJ#Wil14ZAztMYyBKOTY_GMnhlvx-Ye9z70CISsn9Mf3Ts).
+[Recommendation letter](https://mega.nz/file/eBxgiLKJ#Wil14ZAztMYyBKOTY_GMnhlvx-Ye9z70CISsn9Mf3Ts).
 
 Stack: GitHub, Pivotal Tracker, Angular.
 
@@ -154,7 +154,7 @@ Language skills:
 
 ### ```Static Site Generator``` 
 
-The main goal was to create a static site generator that takes files in Markdown format and creates the HTML. Six people were involved in the creation of this project.We used some design patterns, CI, CD, and Docker.
+The main goal was to create a static site generator that takes files in Markdown format and creates the HTML. Six people were involved in the creation of this project. We used some design patterns, CI, CD, and Docker.
 
 May 2021: [source code.](https://github.com/inlor/university/tree/main/M1S2/GLA/ssg)
 
