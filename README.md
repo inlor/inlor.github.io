@@ -199,7 +199,7 @@ Web application developed with Symfony and Angular. This project was the perfect
 
 May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/PW6/parsons)
 
-[![Parsons Demo]()](./media/parsons.mp4)
+[![Parsons Demo]()](https://raw.githubusercontent.com/inlor/inlor.github.io/main/media/parsons.mp4)
 
 ### ```Algorithms Visualization```
 
