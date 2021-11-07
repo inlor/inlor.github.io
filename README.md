@@ -77,7 +77,15 @@ I followed those main courses during my bachelor's degree:
 
 **2020: Remote, Part-time, Student Contract (8 months)**
 
-Development in Symfony and React and database modelization. I made the migration from the old system to the new one.
+Development in Symfony, React and database modelization. I made the migration from the old system to the new one.
+
+For this project, I followed requirements specifications using the Agile approach. Every 1-2 weeks, we made a point about the evolution of the project.
+
+I was the principal full-stack developer during this project. The project manager got involved from time to time by participating in some small functionalities and configurations.
+
+The project required multiple tables junctions, numerous CRUDs, dynamic surveys, and planning of meetings.
+
+Stack: Symfony, React, GitHub, Docker.
 
 ## ```Scratch Animator - Graine de Partage```
 
@@ -89,14 +97,28 @@ Animator for “Discovery of computer science” for children with Scratch softw
 
 **2019: Remote, Part-time, Freelance (7 months)**
 
-Integration from Figma design. Development in Angular of the educational platform. [Letter of recommendation](https://mega.nz/file/eBxgiLKJ#Wil14ZAztMYyBKOTY_GMnhlvx-Ye9z70CISsn9Mf3Ts).
+Integration from Figma design. Development in Angular of educational platforms: Mathix and Matrix Drive (project cancelled). I was a post of a team of 5 people.
 
+I made the logic and integration of 4 games for the platform. Moreover, I got involved in the "Highway Code" test simulation.
+
+[Letter of recommendation](https://mega.nz/file/eBxgiLKJ#Wil14ZAztMYyBKOTY_GMnhlvx-Ye9z70CISsn9Mf3Ts).
+
+Stack: GitHub, Pivotal Tracker, Angular.
 
 ## ```Junior Project Manager - Ahead Technology```
 
 **2019: Remote, Part-time, Freelance (8 months)**
 
-Development of an internal tool for the company. Organization of tasks according to customer feedback. Checking for new features and creation of models.
+Development of an internal tool for the company. Organization of tasks according to customer feedback. Checking for new features and creation of models. 
+
+I was also responsible for creating posts job and creating reports for each release.
+
+It was a great project, divided into three parts:
+- Drupal administration platform with multiple roles
+- Extension for Chrome browser
+- Learning Management System
+
+Stack: Jira, GitHub.
 
 # Extracurricular Experience
 
@@ -104,7 +126,7 @@ Development of an internal tool for the company. Organization of tasks according
 
 **2019 – Montreuil, France  (4 months)**
 
-Animation of French courses for foreign teens and children.
+Animation of French courses for foreign teens and children. I also managed employee files and worked with archives.
 
 # Skills
 
@@ -176,6 +198,8 @@ May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/SY6/
 Web application developed with Symfony and Angular. This project was the perfect moment to discover how modern web applications work by separating the front-end and the back-end.
 
 May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/PW6/parsons)
+
+[![Parsons Demo]()](./media/parsons.mp4)
 
 ### ```Algorithms Visualization```
 
