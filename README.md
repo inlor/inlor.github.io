@@ -197,9 +197,7 @@ May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/SY6/
 
 Web application developed with Symfony and Angular. This project was the perfect moment to discover how modern web applications work by separating the front-end and the back-end.
 
-May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/PW6/parsons)
-
-[![Parsons Demo]()](https://raw.githubusercontent.com/inlor/inlor.github.io/main/media/parsons.mp4)
+May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/PW6/parsons) [![Demo.]()](https://raw.githubusercontent.com/inlor/inlor.github.io/main/media/parsons.mp4)
 
 ### ```Algorithms Visualization```
 
