@@ -214,7 +214,7 @@ May 2019: [source code.](https://github.com/inlor/university/tree/main/L2S4/algo
 
 ## Personal Projects
 
-### ```BigbBlueButton Downloader```
+### ```BigBlueButton Downloader```
 During the lock-down, I followed a course of advanced databases on platform BBB (BigBlueButton). The philosophy of my teacher was to not share with us her slides and take notes during the session. Some of my classmates have taken screenshots of her presentation. 
 
 For my part, after a few weeks, I was challenged to get slides indirectly and be more strategic. I created a Python script to download and create the **.pdf**.  I discovered that BBB is uploading slides of the presenter under **.svg** format, page by page. Then, the next steps were obvious to me.
