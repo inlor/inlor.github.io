@@ -2,7 +2,7 @@
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/lpetic/).
 
-## Sommary 
+## Table of contents
 - [About](./README.md#about) 
 - [Education](./README.md#education)  
 - [Experience](./README.md#experience) 
@@ -15,7 +15,7 @@ You can contact me on [LinkedIn](https://www.linkedin.com/in/lpetic/).
 
 I'm in the last year of my master's degree in Computer Science at the University of Paris. I’m looking for a 4 to 6 months final year internship starting from April 2022 as a Software Engineer.
 
-The master's degree is named: Information, Mobility, Programming, Algorithms, Internet, Systems, Networking (a.k.a. [IMPAIRS](http://www.informatique.univ-paris-diderot.fr/formations/masters/impairs/accueil)).
+The Master Degree is named: Information, Mobility, Programming, Algorithms, Internet, Systems, Networking (a.k.a. [IMPAIRS](http://www.informatique.univ-paris-diderot.fr/formations/masters/impairs/accueil)).
 
 # Education
 
@@ -23,7 +23,7 @@ The master's degree is named: Information, Mobility, Programming, Algorithms, In
 
 **2020-2022**
 
-I followed those courses during my master's degree:
+I followed those courses during my Master's Degree:
 - Embedded Systems
 - Protocol engineering
 - Internet service protocols
@@ -136,11 +136,18 @@ During my studies I used the following languages:
 - C/C++
 - OCaml
 - JavaScript, TypeScript
-- PostgreSQL
+- MySQL, PostgreSQL
 
 Frameworks:
 - Laravel, Symfony
 - Angular, React
+
+Soft skills:
+- Organized
+- Sens of priorities
+- Cross team collaboration
+- Curiosity and creativity
+- Adaptability 
 
 Language skills:
 - English - professional
@@ -189,7 +196,7 @@ May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/CP6/
 
 ### ```File Tags```
 
-This project has similar functionalities like MacOS system tags of files or Windows system tags. One advanced function is that our project has a hierarchy between tags applied thanks to an SQLite database. We used **xattr** attribute to link tags with files.
+This project has similar functionalities like MacOS system tags of files or Windows system tags. One advanced function is that our project has a hierarchy between tags applied thanks to a SQLite database. We used **xattr** attribute to link tags with files.
 
 May 2020: [source code.](https://github.com/inlor/university/tree/main/L3S6/SY6/filetags)
 
