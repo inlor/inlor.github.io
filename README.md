@@ -57,7 +57,7 @@ Stack: Symfony, React, GitHub, Docker.
 
 ## ```Scratch Animator - Graine de Partage```
 
-**2020 - Present: Paris, France, Freelance**
+**2020 - 2022: Paris, France, Freelance (~2 years)**
 
 Animator for “Discovery of computer science” for children with Scratch software. My job was to explain the main concepts of programming and make animations and games using those concepts.
 
