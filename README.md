@@ -15,65 +15,11 @@ You can contact me on [LinkedIn](https://www.linkedin.com/in/lpetic/).
 
 Autonomous and curious, I am passionate of sofware engineering.  Currently, I'm working on a carcharing project.
 
-# Education
-
-## ```Master of Computer Science IMPAIRS - University Of Paris```
-
-**2020-2022**
-
-I followed those courses during my Master's Degree:
-- Embedded Systems
-- Protocol engineering
-- Internet service protocols
-- Data mining and decision support
-- System and network administration
-- Information systems architecture
-- Comparative programming
-- Distributed programming
-- MacOS-X Interfaces and Tools
-- Algorithmic
-- Network protocols
-- Graphical interfaces
-- Android programming
-- Advanced object languages
-- Advanced databases
-- Advanced software engineering
-- Open Source
-- English
-
-During my studies, I participated in open source projects as [Galène](https://galene.org/) and [Easy Admin](https://symfony.com/bundles/EasyAdminBundle/current/index.html).
-
-Some projects are accessible below in the project section.
-
-[Details about the master.](http://www.informatique.univ-paris-diderot.fr/formations/masters/impairs/accueil)
-
-## ```Bachelor of Computer Science - University Of Paris Diderot```
-
-**2017-2020**
-
-I followed those main courses during my bachelor's degree:
-
-- Algorithmic
-- Discrete mathematics
-- Automata and lexical analysis
-- Software engineering
-- Scripting Languages
-- Security and Cryptography
-- Network programming
-- Systems programming
-- Maths and analysis
-- Advanced object oriented programming
-- Functional programming
-- Logic
-
-[Details about the bachelor.](http://www.informatique.univ-paris-diderot.fr/formations/licences/informatique-generale/accueil)
-
-
-# Experience
+# Work Experience
 
 ## ```Software Engineer - Polyconseil```
 
-**2022 - Present : On site/Remote, Full time, Contract**
+**2022 - Present : Paris, France, Hybrid, Full time, Contract**
 
 I worked on the telemetry side to integrate into our IS information such as tire pressure and airbag status (collaboration with the Vulog team).
 
@@ -86,7 +32,7 @@ I contributed to the maintenance of some open-source projects of the company.
 Respond to urgent issues and customers' demands.
 
 
-**2022: On site/Remote, Full time, Intern (5 months)**
+**2022: Paris France, Hybrid, Full time, Intern (5 months)**
 
 I worked on the maintenance of existing features on multiple internal projects and the integration of Vulog Trackers. 
 The goal was to use third-party trackers to distribute their management. 
@@ -176,6 +122,61 @@ Language skills:
 - French - bilingual
 - Russe - professional
 - Roumain - native
+
+# Education
+
+## ```Master of Computer Science IMPAIRS - University Of Paris```
+
+**2020-2022**
+
+I followed those courses during my Master's Degree:
+- Embedded Systems
+- Protocol engineering
+- Internet service protocols
+- Data mining and decision support
+- System and network administration
+- Information systems architecture
+- Comparative programming
+- Distributed programming
+- MacOS-X Interfaces and Tools
+- Algorithmic
+- Network protocols
+- Graphical interfaces
+- Android programming
+- Advanced object languages
+- Advanced databases
+- Advanced software engineering
+- Open Source
+- English
+
+During my studies, I participated in open source projects as [Galène](https://galene.org/) and [Easy Admin](https://symfony.com/bundles/EasyAdminBundle/current/index.html).
+
+Some projects are accessible below in the project section.
+
+[Details about the master.](http://www.informatique.univ-paris-diderot.fr/formations/masters/impairs/accueil)
+
+## ```Bachelor of Computer Science - University Of Paris Diderot```
+
+**2017-2020**
+
+I followed those main courses during my bachelor's degree:
+
+- Algorithmic
+- Discrete mathematics
+- Automata and lexical analysis
+- Software engineering
+- Scripting Languages
+- Security and Cryptography
+- Network programming
+- Systems programming
+- Maths and analysis
+- Advanced object oriented programming
+- Functional programming
+- Logic
+
+[Details about the bachelor.](http://www.informatique.univ-paris-diderot.fr/formations/licences/informatique-generale/accueil)
+
+
 
 # Projects
 
