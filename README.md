@@ -73,6 +73,30 @@ I followed those main courses during my bachelor's degree:
 
 # Experience
 
+## ```Software Engineer - Polyconseil```
+
+**2022 - Present : On site/Remote, Full time, Contract**
+
+I worked on the telemetry side to integrate into our IS information such as tire pressure and airbag status (collaboration with the Vulog team).
+
+I worked on the migration of the CI/CD from Jenkins to GitLab. I assisted several teams to migrate on their side because their projects were based on Blue stack.
+
+I used AWS to create EC2 machines to deploy internal dev tools. 
+
+I contributed to the maintenance of some open-source projects of the company.
+
+Respond to urgent issues and customers' demands.
+
+
+**2022: On site/Remote, Full time, Intern (5 months)**
+
+I worked on the maintenance of existing features on multiple internal projects and the integration of Vulog Trackers. 
+The goal was to use third-party trackers to distribute their management. 
+
+Also, I worked on the migration of the CI from Jenkins to GitLab.
+
+Stack: JavaScript, Django, Docker, Redis.
+
 ## ```Full Stack Developer - B.I.O.S Paris```
 
 **2020: Remote, Part-time, Student Contract (8 months)**
