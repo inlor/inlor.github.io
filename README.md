@@ -13,9 +13,7 @@ You can contact me on [LinkedIn](https://www.linkedin.com/in/lpetic/).
 
 # About
 
-I'm in the last year of my master's degree in Computer Science at the University of Paris. I’m looking for a 4 to 6 months final year internship starting from April 2022 as a Software Engineer.
-
-The Master Degree is named: Information, Mobility, Programming, Algorithms, Internet, Systems, Networking (a.k.a. [IMPAIRS](http://www.informatique.univ-paris-diderot.fr/formations/masters/impairs/accueil)).
+Autonomous and curious, I am passionate of sofware engineering.  Currently, I'm working on a carcharing project.
 
 # Education
 
